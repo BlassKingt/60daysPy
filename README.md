@@ -18,7 +18,8 @@ The puzzle learning method, specifically:
 
 1. Each day, set a practice goal for the day → let me know what gadget I'll be building for the final exercise.
 
-2. Break down the functionality → break the goal down into smaller components, with 1–3 small exercises for each component. 3. Practice these small parts → I built them myself.
+2. Break down the functionality → break the goal down into smaller components, with 1–3 small exercises for each component.
+3. Practice these small parts → I built them myself.
 4. Finally, assemble the parts → Complete today's final exercise (a small tool).
 
 This way, I wasn't bombarded with a mountain of syntax all at once. Instead, I mastered and assembled them piece by piece, like building blocks.
