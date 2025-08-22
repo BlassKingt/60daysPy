@@ -1,0 +1,5 @@
+INFO 200: OK
+ERROR 404: Page not found
+ERROR 500: Server error
+ERROR 404: Resource missing
+INFO 200: OK
