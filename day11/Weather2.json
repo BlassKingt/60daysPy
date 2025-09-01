@@ -1,0 +1,17 @@
+[
+  {
+    "city": "Beijing",
+    "weather": "Clear",
+    "temp": "23℃"
+  },
+  {
+    "city": "Pootung",
+    "weather": "Clear",
+    "temp": "29℃"
+  },
+  {
+    "city": "Guangzhou",
+    "weather": "Partly cloudy",
+    "temp": "32℃"
+  }
+]
